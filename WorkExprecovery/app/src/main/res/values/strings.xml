@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MEMORY FLASH!</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Memory Flash!</string>
+    <string name="startButton">Play?</string>
+    <string name="play">Ready To PLAY?</string>
+</resources>
